@@ -1,6 +1,6 @@
 # Discord Clone - Frontend
 
-WEBSITE LIVE BUT IN DESKTOP VERSION :- (https://adityadwivedi2002.github.io/Flipkart-Clone/)
+WEBSITE LIVE BUT IN DESKTOP VERSION :- (https://discordclonebyadityadwivedi.netlify.app/)
 
 ![Discord Clone](./images/ss1.png)
 
