@@ -1,4 +1,4 @@
-# Discord Clone - Frontend
+# Discord Clone fully responsive - Frontend
 
 WEBSITE LIVE BUT IN DESKTOP VERSION :- (https://discordclonebyadityadwivedi.netlify.app/)
 
@@ -6,6 +6,9 @@ WEBSITE LIVE BUT IN DESKTOP VERSION :- (https://discordclonebyadityadwivedi.netl
 
 ## Overview
 This repository contains the frontend implementation of a Discord clone, developed as a project to showcase HTML, CSS, Tailwind and javascript skills. The project focuses on replicating the user interface of the popular community platform Discord.
+
+## KeyPoint
+It is Completely fully responsive 
 
 ## Technologies Used
 - HTML5
