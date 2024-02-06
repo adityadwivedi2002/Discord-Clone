@@ -140,13 +140,18 @@
     box-sizing: border-box;
   }
 
-  .h1-lh{
-    line-height: 33px;
-  }
 
+    /* @media screen and (min-width: 580px) {
+      .h1-lh {
+        line-height: 0px;
+      }
+    } */
 
-
-
+    @media screen and (min-width: 1400px) {
+      .h1-lh {
+        line-height: 53px;
+      }
+    }
 
 
 
